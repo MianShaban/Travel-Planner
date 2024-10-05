@@ -1,0 +1,37 @@
+.form-imag{
+width: 100%;
+    height: auto;
+    border-radius: 20px !important;
+    margin-top: 15%;
+}
+
+.contact-tittle{
+    background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text ;
+  font-size: 6rem;
+            white-space: nowrap;
+            color:white;
+            overflow: hidden;
+            border-right: 2px solid white; /* Cursor effect */
+            width: 0; /* Initially hidden */
+            animation: typing 3s steps(29, end) infinite, blink-caret 0.7s step-end infinite;
+          }
+      
+          @keyframes typing {
+            0% {
+              width: 0; /* Start with no text */
+            }
+            50% {
+              width: 12ch; /* Text fully typed at 50% of the animation */
+            }
+            100% {
+              width: 0; /* Text disappears at 100% */
+            }
+          }
+      
+          @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: white; }
+          }
+        

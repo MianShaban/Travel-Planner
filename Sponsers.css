@@ -1,0 +1,17 @@
+.sponsers-list{
+    display: inline-block !important;
+    list-style: none;
+}
+/* 
+.sp-li{
+    display: inline-block;
+    } */
+    .sponser-img{
+        width: 200px !important;
+        /* height:  !important; */
+
+    }
+    .sponser-title{
+        font-size: 3em;
+        font-weight: 600;
+    }

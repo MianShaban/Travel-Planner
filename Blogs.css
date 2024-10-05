@@ -1,0 +1,14 @@
+.blog-card{
+    /* border-radius: 10px; */
+    /* border :.5px solid black; */
+    box-shadow: -5px 0px  #47b298;
+}
+
+.blog-card:hover{
+    box-shadow: -5px 0px #1d7754;
+
+}
+
+.blog-card-image:hover{
+    transform: scale(1.01);
+}

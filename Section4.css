@@ -1,0 +1,16 @@
+.section4-text{
+    font-size: medium;
+}
+.section-4-img-1{
+    border-radius: 15px;
+}
+.se4-button-more{
+    background-color: #d140146b;
+border: .5px solid #c3370c ;
+color: #c3370c;
+}
+.se4-button-more:hover{
+    background-color:#c3370c ;
+color: white;
+    border: .5px solid #c3370c ;
+}

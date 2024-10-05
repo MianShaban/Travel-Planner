@@ -1,0 +1,67 @@
+/* Header Component Style */
+.logoimg{
+  width: 80px;
+  /* color: white; */
+}
+.navbar{
+  backdrop-filter: blur(3px);
+  width: 100% !important;
+
+  z-index: 1;
+  position: absolute;
+  /* top: 2%; */
+}
+.navbar-nav{
+  /* margin-left: 19.5% !important; */
+  margin-left: 20%;
+
+}
+.nav-link{
+  font-weight: 600 !important;
+  color:white !important;
+  text-decoration: none;
+}
+.nav-link:hover{
+  color: black !important ;
+  /* font-weight: 600 !important; */
+
+}
+
+
+.dropdown-menu{
+  /* box-shadow: 1px  black; */
+  border: none;
+  background-color: transparent;
+  /* background-color: tomato; */
+  /* background-color: rgba(255, 188, 255, 0.192); */
+
+z-index: inherit;}
+.dropdown-item{
+color: white;
+}
+
+.dropdown-item:hover{
+  color: rgb(0, 0, 0);
+  backdrop-filter: blur(10px) !important;
+}
+.button-container{
+  margin-left: 10%;
+  border: 1px solid red;
+  width: 200px !important;
+}
+.button{
+  
+  color: white;
+  border-radius: 5px;
+  width: 60px;
+  height: 20px;
+  text-decoration: none;
+}
+.button:hover{
+  color: rgb(0, 0, 0);
+}
+
+
+.n-icon{
+  margin-left: 30% !important;
+}

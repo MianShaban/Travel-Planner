@@ -1,0 +1,17 @@
+.gallery-image{
+border-radius: 5px;
+filter: grayscale(95%);
+/* opacity: .4; */
+/* margin: 5px; */
+padding: 5px !important;
+border-radius: 10px;
+}
+.gallery-image:hover{
+    /* border: 5px solid white; */
+border-radius: 10px;
+transform: scale(1.03);
+filter: grayscale(0%);
+
+    /* opacity: 1; */
+
+}

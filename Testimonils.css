@@ -1,0 +1,32 @@
+.testimonil-container{
+    background-color: rgba(91, 156, 137, 0.5);
+
+}
+.testinomial-image{
+    width: 100% !important;
+    height: auto;
+}
+.testinomial-carasoul{
+    width: 100%;
+    height: auto;
+}
+.testinomial-carasoul-item{
+    /* text-align: center; */
+    /* width: 450px; */
+    /* height: 250px; */
+    border-radius: 10px;
+    /* border: 1px solid rgb(47, 116, 47); */
+    background-color: rgba(255, 228, 196, 0.438);
+}
+/* .right-left-icon{
+color: black !important;
+} */
+.testi-text{
+font-size: large;
+}
+
+@media (max-width: 510px) {
+.testinomial-carasoul-item{
+display: none !important;
+}
+}

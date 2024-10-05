@@ -1,0 +1,90 @@
+/* .login-body{
+    background: #00000069 !important;
+} */
+
+
+
+.c-login{
+/* background-color: #d0dad34f !important; */
+border: .5px solid white;
+
+}
+
+
+.login-tittle{
+    /* color:#233a29; */
+    /* font-weight: 800; */
+    font-size: 3.5rem;
+    /* font-family: "Audiowide", sans-serif; */
+
+    /* text-shadow: 3px 3px 3px #888888; */
+
+}
+.input-text{
+    /* color:#233a29; */
+color: black;
+text-align: left;
+}
+.input-login{
+    /* background-color: #d0dad34f !important; */
+    border: .01px solid rgb(214, 214, 214);
+    border-radius: 5px;
+}
+
+.btn{
+    background-color: #233a29 !important;
+    /* width: 200px !important; */
+color:white;
+}
+.btn:hover{
+    background-color: #4d6d56 !important;
+    color: black;
+}
+/* .link-text-login{
+    font-size: 12px;
+} */
+
+/* .login-back-row{
+    background-color: #233a29;
+} */
+
+ .login-image{
+    width: 100%;
+height: auto;
+border-radius: 30px;
+ }
+
+ .bodyholder-login{
+    /* border: 1px solid  rgb(255, 255, 255)  !important;  */
+    border: none !important;
+
+ }
+ .forget-pass{
+    /* text-align: lef !important; */
+    margin-left: 65%;
+    margin-top: 5%;
+ }
+.divider{
+    font-weight: 500;
+    color: black;
+}
+
+.google-btn
+
+  {
+    border-radius: 5px;
+    border:.2px solid gray;
+  }
+  .google-btn:hover{
+    background: linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335);
+    color: antiquewhite;
+  }
+
+  .facebook-btn{
+    border-radius: 5px;
+    border:.2px solid gray;
+  }
+  .facebook-btn:hover{
+    background-color: blue !important;
+    color: antiquewhite;
+  }

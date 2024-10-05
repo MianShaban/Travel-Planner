@@ -1,0 +1,49 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
+
+/* Importing all CSS files */
+@import url(./Loader.css);
+@import url("./Header.css");
+@import url("./Banner.css");
+@import url("./Login.css");
+@import url("./Section1.css");
+@import url("./Section2.css");
+@import url("./Section3.css");
+@import url("./Section4.css");
+@import url("./Sponsers.css");
+@import url("./Footer.css");
+@import url("./PageHead.css");
+@import url("./HickingGoods.css");
+@import url("./Shop.css");
+@import url("./Team.css");
+@import url("./Contect.css");
+@import url("./ContectForm.css");
+@import url("./Review.css");
+@import url("./Blogs.css");
+/* @import url("./Gallery.css"); */
+@import url("./Pricing.css");
+@import url("./Memories.css");
+@import url("./Testimonils.css");
+@import url("./BookingForm.css");
+@import url("./Signup.css");
+@import url("./Naran.css");
+@import url("./DashboardMain.css");
+@import url("./ProfilePage.css");
+@import url("./AdminDashboard.css");
+@import url("./BlogDetail.css");
+@import url("./Spots.css");
+
+/* Defaults */
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Primary Variables */
+:root {
+  --primary: "green";
+}

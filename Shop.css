@@ -1,0 +1,17 @@
+.shop-link{
+    color: black !important;
+    font-weight: bold;
+}
+.shop-nav{
+text-align: center !important;
+}
+.shop-button{
+    background-color:#C3360C !important;
+    border: .5px solid white;
+    color:white;
+}
+.shop-button:hover{
+    background-color:transparent !important;
+    border: .5px solid black;
+    color:black;
+}

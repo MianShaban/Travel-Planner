@@ -1,0 +1,130 @@
+.section1{
+    background-color: rgb(22, 22, 34);
+    /* background-color: rgb(243, 166, 79); */
+    /* background-color: #5f5641; */
+}
+.section1-image-left{
+    position: relative;
+}
+.location-img1{
+position: absolute;
+left: 33%;
+top: 10%;
+animation: lc1 3s infinite;
+}
+
+@keyframes lc1 {
+    0%{
+        position: absolute;
+        left: 33%;
+        top: 10%; 
+    }
+    50%{
+        position: absolute;
+left: 33%;
+top: 5%;
+    }
+    100%{
+        position: absolute;
+left: 33%;
+top: 10%;
+    }
+}
+.location-img2{
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    animation: lc2 3s infinite;
+    }
+
+    @keyframes lc2 {
+        0%{
+            position: absolute;
+            left: 20%;
+            top: 20%;
+        }
+        50%{
+            position: absolute;
+            left: 20%;
+            top: 15%;
+        }
+        100%{
+            position: absolute;
+            left: 20%;
+            top: 20%;
+        }
+    }
+    .location-img3{
+        position: absolute;
+        left: 50%;
+        top: 78%;
+    animation: lc3 3s infinite;    
+    }
+     
+        @keyframes lc3 {
+            0%{
+                position: absolute;
+                left: 50%;
+                top: 78%;
+            }
+            50%{
+                position: absolute;
+                left: 50%;
+                top: 73%;
+            }
+            100%{
+                position: absolute;
+                left: 50%;
+                top: 78%;
+            }
+        }
+.buildingicon-section1{
+    width: 60px;
+    margin: 20px;
+}
+.paratittle-se1{
+    font-weight: 500;
+}
+p{
+    margin: 20px;
+    font-size: small;
+    text-align: left;
+}
+.imagelist-se1{
+list-style: none;
+display: inline-block !important;
+margin: 8px;
+}
+.sec1-button-spot{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+.sec1-button-spot:hover{
+    background-color:rgba(113, 234, 255, 0.301) !important;
+
+}
+
+.sec1-button2-spot{
+    background-color:#C3360C;
+    color: white;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+.sec1-button2-spot:hover{
+    background-color: transparent;
+
+}
+.section1-image-right {
+    /* margin-left: 28%; */
+    width: 100px;
+    margin-left: 20px;
+}
+
+
+   .trees-image{
+    margin-top: -90px;
+    width:100%;
+
+   }

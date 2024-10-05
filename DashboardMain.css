@@ -1,0 +1,66 @@
+.dash-conainer{
+    background-color: rgba(211, 211, 211, 0.233);
+}
+
+.dash-card-holder{
+    list-style: none;
+    /* display: inline-block;
+    margin: 20px; */
+  }
+  .mini-box-dash{
+    border:.2px solid lightblue;
+    border-radius: 5px;
+    color: rgb(89, 189, 223);
+    /* width: 65%; */
+    background-color:rgba(90, 190, 252, 0.158);    
+  }
+  .graph-icon-dash{
+    color: lightcoral;
+  }
+  .para-list-dash{
+    display: inline-block;
+    list-style: none;
+  }
+  .Dash-Card{
+    background-color: transparent;
+    border-color:transparent;
+    padding-top: 0% !important;
+  }
+  .mini-box-dash-2{
+    border:.2px solid lightgreen;
+    color: rgb(84, 202, 84);
+    border-radius: 5px;
+    background-color:rgba(145, 250, 135, 0.384);    
+  }
+  .cloud-dash{
+    color: rgba(255, 160, 122, 0.836);
+  }
+
+  .mini-box-dash-3{
+    border:.2px solid lightpink;
+    color: rgb(252, 145, 163);
+    border-radius: 5px;
+    background-color:rgba(255, 182, 193, 0.473);    
+  }
+  .mini-box-dash-4{
+    border:.2px solid rgb(255, 92, 92);
+    color: rgb(252, 63, 63);
+    border-radius: 5px;
+    background-color:rgba(255, 92, 92, 0.432);    
+  }
+  .barchart-icon-dash{
+    color: royalblue;
+  }
+  .tour-detail-dash{
+    /* display: inline-block; */
+    list-style: none;
+    margin: 19px;
+  }
+  
+  canvas {
+    max-height: 420px;
+    width: 100%; 
+}
+/* .sales-chart-container2{
+  background-color: rgba(0, 0, 255, 0.116);
+} */

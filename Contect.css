@@ -1,0 +1,18 @@
+.contect-tittle{
+    font-size: 3rem ;
+}
+.story-para{
+font-size: medium;
+}
+.story-image{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+
+}
+.story-image:hover{
+    transform: scale(1.02);
+}
+.story-container{
+    background-color: rgba(7, 7, 7, 0.055);
+}

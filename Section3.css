@@ -1,0 +1,23 @@
+.img-row-se3{
+    position: relative;
+
+}
+.back-container{
+    position: relative;
+}
+.backimg-se3{
+    width: 100%;
+    position: relative;
+}
+.se3-container{
+    background-color: #b29361;
+}
+
+.counter-list{
+    list-style: none;
+    display: inline-block;
+    /* color: white; */
+    color: black;
+    font-weight: bolder;
+}
+

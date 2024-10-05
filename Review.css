@@ -1,0 +1,19 @@
+/* .review-box{
+    background-color: whitesmoke;
+    border-radius: 10px;
+} */
+
+#map {
+    height: 400px;
+    width: 100%;
+  }
+  .review-list {
+    max-height: 200px;
+  }
+
+/* .review-side-column{
+  height: 82.5vh;
+  overflow-y: scroll;
+} */
+
+

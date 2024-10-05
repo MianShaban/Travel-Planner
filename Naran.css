@@ -1,0 +1,61 @@
+/* .main-naran{
+    overflow-x: hidden;
+} */
+.moving-clouds {
+
+    background-image: url('http://demos.creative-tim.com/paper-kit-2/assets/img/clouds.png');
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    top: 33%;
+    width: 100%;
+    height: 25.75em;
+    -webkit-animation: cloudLoop 8s linear infinite;
+    animation: cloudLoop 8s linear infinite;
+  }
+  
+  @keyframes cloudLoop {
+    0% {
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+    100% {
+      -webkit-transform: translate3d(-5%, 0, 0);
+      transform: translate3d(-5%, 0, 0);
+    }
+  }
+
+
+
+
+.Naran-img-head{
+width: 100%;
+height: auto;
+position: relative;
+}
+.banner-text-holder-naran{
+    position: absolute;
+    top: 45%;
+}
+.banner-tittle-naran{
+/* color: #4E3A2A; */
+color: white;
+text-shadow: 5px 0px 0px black;
+
+/* color: rgb(39, 65, 39); */
+font-weight: 900;
+
+}
+.Banner-text-naran{
+    
+    color: white;
+}
+@media screen and (max-width: 786px) {
+.banner-tittle-naran{
+display: none;
+}
+.Banner-text-naran{
+  display: none;
+}
+}

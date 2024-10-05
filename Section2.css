@@ -1,0 +1,52 @@
+.sec2-container{
+    background-color: #332e31;
+}
+
+.pawn-img-se2{
+    margin: 1px;
+    animation: popup 2s infinite;
+}
+@keyframes popup {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.5);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+.jungle-image-se2{
+    width: 100%;
+}
+@media (min-width: 768px) {
+    .jungle-image-se2  {
+        width: 100%;
+        height: auto;
+    }
+}
+.paratittle-se2{
+      font-weight: 500;
+  }
+
+  .circle{
+    margin-left: 48%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    opacity: .7;
+    border: 3px dotted white;
+    /* animation: rotate 11s infinite; */
+  }
+ /* @keyframes rotate {
+    0% {
+        transform: rotate(360deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+ } */

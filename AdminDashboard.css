@@ -1,0 +1,26 @@
+.left-div{
+  height: 100vh;
+
+background-color: rgba(220, 220, 220, 0.5);
+}
+
+
+.left-div-list-item{
+  list-style: none;
+  
+}
+.left-div-link{
+  text-decoration: none !important;
+  color:gray;
+}
+.left-div-link:hover{
+  color: black;
+  letter-spacing: .5px;
+  text-decoration: none;
+}
+
+.right-div{
+  overflow-y: scroll;
+  height: 100vh;
+}
+
